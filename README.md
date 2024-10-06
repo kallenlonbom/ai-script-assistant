@@ -1,3 +1,3 @@
-# script-generator
+# ai-script-assistant
 
 In progress
